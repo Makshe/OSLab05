@@ -55,7 +55,7 @@ int main() {
     pthread_create(&consumer, NULL, Consumer, NULL);
     while(1);
     return 0;
-
+    //stopped at timer = 8456501
 
 
 }
